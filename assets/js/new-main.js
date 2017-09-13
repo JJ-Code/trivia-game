@@ -89,7 +89,7 @@ function generateWin() {
 
 	$(".gameArea").html(gameHTML); //continues the game
 	setTimeout(wait, 4500);
-
+}
 //Function to keep track of incorrect answers and what happens when there is incorrect
 function generateLoss() {
 	incorrectTally++;
@@ -103,7 +103,7 @@ function generateLoss() {
 
 	$(".gameArea").html(gameHTML); //continues the game
 	setTimeout(wait, 4500);
-
+}
 function generateHTML() {
 	gameHTML =
 	//Timer
