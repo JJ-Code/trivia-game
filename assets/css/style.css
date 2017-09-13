@@ -1,0 +1,49 @@
+.display-3 {
+  color: 	#B22222!important;
+}
+
+#lead {
+  font-size: 25px !important;
+  color: #000000;
+}
+
+body {
+background-color: #000000 !important;
+
+/*url("../images/trivia.jpg")*/
+}
+
+.jumbotron {
+  background-color: #ffffff !important;
+  text-align: center !important;
+}
+
+#superhero-hero {
+  height: 220px;
+  width: 650px;
+  margin: auto;
+}
+
+.row {
+  text-align: center;
+}
+
+#result-image, .result-image {
+  height: 220px;
+  width: 650px;
+  margin: auto;
+}
+
+p {
+  color: #ffffff; !important;
+  font-size: 25px;
+}
+
+.options1{
+  text-align: center;
+  margin: 30px;
+}
+
+.answer:hover {
+  background: orange;
+}
